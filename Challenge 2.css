@@ -1,0 +1,77 @@
+body{
+    background-color:  hsl(330, 100%, 98%);
+}
+h1{
+    font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#first-div{
+    margin: auto;
+    height: 1800px;
+    width: 600px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+div{
+    height: 160px;
+    width: 550px;
+    background-color:  hsl(330, 100%, 98%);
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 10px;
+   
+}
+img{
+
+    height: 300px;
+    width: 500px;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 20px;
+}
+ 
+.first-h2{
+    color: hsl(332, 51%, 32%);
+
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+td{
+    width: 20em;
+    border-bottom:1px solid  hsl(30, 54%, 90%);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: hsl(332, 51%, 32%);
+}
+
+li{
+    line-height: 2rem;
+  
+ 
+}
+
+li::marker{
+    color: hsl(14, 45%, 36%); 
+      word-spacing: 1rem;
+  
+}
+
+
